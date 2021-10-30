@@ -39,9 +39,6 @@ Aplicativo para enviar mensagens antes do Dowhile2021 da RocketSeat #nlwheat #do
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
 
-<div align="center">
-  <img src="example.gif" width="300"/>  
-</div>
 
 
 ## 📄 Licença
