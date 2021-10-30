@@ -1,7 +1,7 @@
 # shopplist
 
 <h1 align="center">
-  <img alt="mobile_heat" height="80" title="mobile_heat" src="logo.png" />
+  <img alt="mobile_heat" height="80" title="mobile_heat" src="logo.svg" />
 </h1>
 
 <p align="center">
