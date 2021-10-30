@@ -10,7 +10,7 @@
 
 </p>
 
-![cover](cover.png?style=flat)
+![cover](capa.png?style=flat)
 
 ## 💻 Project
 Aplicativo para enviar mensagens antes do Dowhile2021 da RocketSeat #nlwheat #dowhile
